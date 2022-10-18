@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				205,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				202,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				245,
+				354
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				159,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				194,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibby brian",
+	"position": [
+		70,
+		380
+	],
+	"healthicon": "Family",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-230,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

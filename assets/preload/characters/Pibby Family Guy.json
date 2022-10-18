@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				194,
+				130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pibby Family Guy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				344
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pibby Family Guy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				352,
+				109
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pibby Family Guy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				329
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pibby Family Guy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				208,
+				39
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pibby Family Guy right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pibby Family Guy",
+	"position": [
+		-150,
+		-30
+	],
+	"healthicon": "Family",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-110,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				246,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				189,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				205,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				179,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				194,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/death live peter",
+	"position": [
+		110,
+		280
+	],
+	"healthicon": "Family",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-230,
+		-370
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}
