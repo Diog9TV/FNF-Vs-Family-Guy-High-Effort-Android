@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brian.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="179" height="304" frameX="0" frameY="-20" frameWidth="182" frameHeight="324"/>
+	<SubTexture name="down0001" x="179" y="0" width="179" height="313" frameX="-3" frameY="-11" frameWidth="182" frameHeight="324"/>
+	<SubTexture name="down0002" x="358" y="0" width="167" height="323" frameX="-8" frameY="0" frameWidth="182" frameHeight="324"/>
+	<SubTexture name="idle0000" x="525" y="0" width="172" height="318"/>
+	<SubTexture name="idle0001" x="697" y="0" width="168" height="318" frameX="0" frameY="0" frameWidth="172" frameHeight="318"/>
+	<SubTexture name="left0000" x="0" y="323" width="178" height="324" frameX="0" frameY="-3" frameWidth="185" frameHeight="327"/>
+	<SubTexture name="left0001" x="178" y="323" width="171" height="327" frameX="-10" frameY="0" frameWidth="185" frameHeight="327"/>
+	<SubTexture name="left0002" x="349" y="323" width="175" height="323" frameX="-10" frameY="-4" frameWidth="185" frameHeight="327"/>
+	<SubTexture name="right0000" x="524" y="323" width="207" height="327" frameX="-3" frameY="0" frameWidth="210" frameHeight="327"/>
+	<SubTexture name="right0001" x="731" y="323" width="195" height="325" frameX="-1" frameY="-2" frameWidth="210" frameHeight="327"/>
+	<SubTexture name="right0002" x="0" y="650" width="180" height="324" frameX="0" frameY="-3" frameWidth="210" frameHeight="327"/>
+	<SubTexture name="up0000" x="180" y="650" width="166" height="353" frameX="-6" frameY="0" frameWidth="176" frameHeight="355"/>
+	<SubTexture name="up0001" x="346" y="650" width="174" height="347" frameX="-2" frameY="-7" frameWidth="176" frameHeight="355"/>
+	<SubTexture name="up0002" x="520" y="650" width="176" height="340" frameX="0" frameY="-15" frameWidth="176" frameHeight="355"/>
+</TextureAtlas>

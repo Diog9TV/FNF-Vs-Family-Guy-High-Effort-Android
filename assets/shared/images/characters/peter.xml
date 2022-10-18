@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peter.png"><SubTexture name="peter idle0000" x="2831" y="1967" width="439" height="484" frameX="-10" frameY="-93" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter idle0001" x="556" y="2304" width="455" height="517" frameX="0" frameY="-60" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter idle0002" x="2384" y="0" width="447" height="519" frameX="0" frameY="-59" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter idle0003" x="948" y="628" width="445" height="540" frameX="-2" frameY="-38" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter idle0004" x="1477" y="0" width="452" height="536" frameX="0" frameY="-41" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter idle0005" x="1929" y="528" width="451" height="526" frameX="-4" frameY="-49" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter idle0006" x="1929" y="0" width="455" height="528" frameX="0" frameY="-50" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter idle0007" x="1477" y="536" width="434" height="534" frameX="-8" frameY="-44" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter idle0008" x="1083" y="1778" width="443" height="523" frameX="-4" frameY="-55" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter idle0009" x="1929" y="1054" width="435" height="523" frameX="-11" frameY="-54" frameWidth="455" frameHeight="609" />
+<SubTexture name="peter down0000" x="1703" y="2823" width="490" height="456" frameX="-4" frameY="-10" frameWidth="494" frameHeight="471" />
+<SubTexture name="peter down0001" x="3448" y="0" width="477" height="454" frameX="-2" frameY="-12" frameWidth="494" frameHeight="471" />
+<SubTexture name="peter down0002" x="1231" y="2823" width="472" height="458" frameX="0" frameY="-7" frameWidth="494" frameHeight="471" />
+<SubTexture name="peter down0003" x="2193" y="2823" width="458" height="456" frameX="-6" frameY="-8" frameWidth="494" frameHeight="471" />
+<SubTexture name="peter down0004" x="2651" y="2823" width="457" height="456" frameX="-4" frameY="-8" frameWidth="494" frameHeight="471" />
+<SubTexture name="peter up0000" x="470" y="0" width="521" height="624" frameX="-60" frameY="-19" frameWidth="582" frameHeight="668" />
+<SubTexture name="peter up0001" x="0" y="0" width="470" height="628" frameX="-106" frameY="-15" frameWidth="582" frameHeight="668" />
+<SubTexture name="peter up0002" x="0" y="628" width="471" height="616" frameX="-99" frameY="-26" frameWidth="582" frameHeight="668" />
+<SubTexture name="peter up0003" x="991" y="0" width="486" height="618" frameX="-96" frameY="-23" frameWidth="582" frameHeight="668" />
+<SubTexture name="peter up0004" x="471" y="628" width="477" height="614" frameX="-105" frameY="-27" frameWidth="582" frameHeight="668" />
+<SubTexture name="peter left0000" x="0" y="1244" width="555" height="534" frameX="-1" frameY="-31" frameWidth="556" frameHeight="588" />
+<SubTexture name="peter left0001" x="1011" y="2304" width="536" height="513" frameX="-9" frameY="-50" frameWidth="556" frameHeight="588" />
+<SubTexture name="peter left0002" x="1081" y="1244" width="551" height="532" frameX="-5" frameY="-34" frameWidth="556" frameHeight="588" />
+<SubTexture name="peter left0003" x="0" y="1778" width="556" height="526" frameX="0" frameY="-37" frameWidth="556" frameHeight="588" />
+<SubTexture name="peter left0004" x="1526" y="1778" width="538" height="521" frameX="-6" frameY="-42" frameWidth="556" frameHeight="588" />
+<SubTexture name="peter left0005" x="0" y="2304" width="556" height="519" frameX="0" frameY="-48" frameWidth="556" frameHeight="588" />
+<SubTexture name="peter left0006" x="556" y="1778" width="527" height="526" frameX="-16" frameY="-37" frameWidth="556" frameHeight="588" />
+<SubTexture name="peter left0007" x="555" y="1244" width="526" height="534" frameX="-17" frameY="-32" frameWidth="556" frameHeight="588" />
+<SubTexture name="peter right0000" x="1547" y="2304" width="607" height="497" frameX="-60" frameY="-37" frameWidth="669" frameHeight="534" />
+<SubTexture name="peter right0001" x="2831" y="495" width="593" height="492" frameX="-63" frameY="-42" frameWidth="669" frameHeight="534" />
+<SubTexture name="peter right0002" x="2154" y="2304" width="610" height="495" frameX="-59" frameY="-39" frameWidth="669" frameHeight="534" />
+<SubTexture name="peter right0003" x="0" y="2823" width="614" height="484" frameX="-54" frameY="-49" frameWidth="669" frameHeight="534" />
+<SubTexture name="peter right0004" x="614" y="2823" width="617" height="484" frameX="-51" frameY="-50" frameWidth="669" frameHeight="534" />
+<SubTexture name="peter right0005" x="2831" y="1478" width="605" height="489" frameX="-64" frameY="-45" frameWidth="669" frameHeight="534" />
+<SubTexture name="peter right0006" x="2831" y="987" width="591" height="491" frameX="-64" frameY="-41" frameWidth="669" frameHeight="534" />
+<SubTexture name="peter right0007" x="2831" y="0" width="617" height="495" frameX="-52" frameY="-39" frameWidth="669" frameHeight="534" />
+</TextureAtlas>

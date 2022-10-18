@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stewie.png"><SubTexture name="stewie idle0000" x="767" y="962" width="269" height="185" frameX="-338" frameY="-311" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie idle0001" x="792" y="775" width="267" height="186" frameX="-343" frameY="-310" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie idle0002" x="1073" y="0" width="268" height="186" frameX="-342" frameY="-310" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie idle0003" x="1073" y="186" width="264" height="186" frameX="-346" frameY="-310" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie idle0004" x="1073" y="372" width="266" height="186" frameX="-342" frameY="-310" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie idle0005" x="0" y="775" width="264" height="187" frameX="-345" frameY="-309" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie idle0006" x="1073" y="558" width="266" height="186" frameX="-342" frameY="-310" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie idle0007" x="264" y="775" width="264" height="187" frameX="-345" frameY="-309" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie idle0008" x="1073" y="558" width="266" height="186" frameX="-342" frameY="-310" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie idle0009" x="528" y="775" width="264" height="187" frameX="-345" frameY="-309" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie down0000" x="821" y="188" width="234" height="179" frameX="-369" frameY="-317" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie down0001" x="821" y="367" width="238" height="178" frameX="-366" frameY="-318" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie down0002" x="1036" y="962" width="233" height="177" frameX="-367" frameY="-319" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie down0003" x="0" y="1148" width="233" height="176" frameX="-366" frameY="-320" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie down0004" x="1036" y="962" width="233" height="177" frameX="-367" frameY="-319" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie down0005" x="821" y="545" width="237" height="178" frameX="-367" frameY="-318" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie up0000" x="548" y="195" width="272" height="194" frameX="-331" frameY="-301" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie up0001" x="548" y="0" width="273" height="195" frameX="-331" frameY="-300" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie up0002" x="0" y="198" width="272" height="196" frameX="-333" frameY="-299" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie up0003" x="0" y="0" width="274" height="198" frameX="-333" frameY="-297" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie up0004" x="274" y="0" width="274" height="197" frameX="-332" frameY="-298" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie up0005" x="272" y="198" width="272" height="196" frameX="-331" frameY="-299" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie left0000" x="250" y="394" width="261" height="188" frameX="-326" frameY="-308" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie left0001" x="511" y="394" width="255" height="188" frameX="-329" frameY="-308" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie left0002" x="0" y="587" width="254" height="188" frameX="-328" frameY="-308" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie left0003" x="254" y="587" width="243" height="188" frameX="-335" frameY="-308" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie left0004" x="0" y="587" width="254" height="188" frameX="-328" frameY="-308" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie left0005" x="497" y="587" width="255" height="188" frameX="-329" frameY="-308" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie right0000" x="1073" y="744" width="261" height="186" frameX="-353" frameY="-310" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie right0001" x="0" y="962" width="254" height="186" frameX="-363" frameY="-310" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie right0002" x="254" y="962" width="255" height="186" frameX="-364" frameY="-310" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie right0003" x="0" y="394" width="250" height="193" frameX="-371" frameY="-303" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie right0004" x="821" y="0" width="252" height="188" frameX="-367" frameY="-308" frameWidth="920" frameHeight="580" />
+<SubTexture name="stewie right0005" x="509" y="962" width="258" height="186" frameX="-358" frameY="-310" frameWidth="920" frameHeight="580" />
+</TextureAtlas>
